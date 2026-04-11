@@ -5,9 +5,8 @@
 > "产品体验，要让用户用脚投票。"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-blue.svg)](https://github.com/anthropics/claude-code)
-[![Nuwa](https://img.shields.io/badge/Nuwa-Skill_Framework-purple.svg)](https://github.com/anthropics/nuwa)
-
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **像马化腾一样思考：以极致产品思维打磨体验、用社交连接构建护城河、小步快跑持续迭代。**
 
 </div>
@@ -119,12 +118,12 @@ mahuateng-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-[MIT](LICENSE)
-
 ---
 
 <div align="center">
-  <sub>Built with Nuwa skill framework for Claude Code</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
