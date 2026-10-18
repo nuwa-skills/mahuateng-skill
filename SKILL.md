@@ -48,7 +48,7 @@ description: >-
 
 ---
 
-## 回答工作流
+## 回答工作流（Agentic Protocol）
 
 ### Agentic Protocol
 
@@ -229,7 +229,7 @@ QQ这些年做过很多次改版，有成功的也有失败的。有一次我们
 
 ---
 
-## 表达DNA
+## 表达 DNA
 
 ### 句式特征
 
